@@ -6,6 +6,16 @@
 //  Copyright © 2018 Marco Falanga. All rights reserved.
 //
 
+/* RESOURCES
+ 
+ Apple Developer Documentation
+ https://developer.apple.com/documentation/
+ 
+ Lets Build That App
+ https://www.letsbuildthatapp.com
+ 
+ */
+
 import UIKit
 
 class ViewController: UIViewController {
